@@ -1,0 +1,33 @@
+<!-- register.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="./stylesRegister.css">
+</head>
+<body>
+    <div class="container-register">
+        <div class="container_world">
+            <img src="./assets/mundo.svg" alt="img mundo">
+        </div>
+        <div class="form-container">
+            <form action="index.html">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Correo electrónico:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="password">Contraseña:</label>
+                <input type="password" id="password" name="password" required>
+                <label for="confirm-password">Confirmar contraseña:</label>
+                <input type="password" id="confirm-password" name="confirm-password" required>
+                <button class="btn-register" type="submit">Registrarse</button>
+            </form>
+        </div>
+        <div class="login-container">
+            <p>¿Ya tienes cuenta? <a href="login.html">Iniciar sesión</a></p>
+        </div>
+    </div>
+</body>
+</html>
