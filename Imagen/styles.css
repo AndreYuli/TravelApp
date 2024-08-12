@@ -15,59 +15,59 @@
     color: white;
     text-align: center;
     justify-content: center;
-    padding: 30px; /* Opcional: Agrega espacio alrededor del contenido */
+    padding: 30px; 
 }
 
 
 .uno {
-    background-color: #20c997; /* Teal */
+    background-color: #20c997; 
 }
 
 .dos {
-    background-color: #0d6efd; /* Blue */
+    background-color: #0d6efd; 
 }
 
 .tres {
-    background-color: #6f42c1; /* Purple */
+    background-color: #6f42c1; 
 }
 
 .cuatro {
-    background-color: #343a40; /* Dark */
+    background-color: #343a40;
 }
 
 .cinco {
-    background-color: #ffc107; /* Yellow */
+    background-color: #ffc107; 
 }
 
 .seis {
-    background-color: #fd7e14; /* Orange */
+    background-color: #fd7e14; 
 }
 .top-bar .uno {
     width: 7vw;
     height: 5vh;
-    font-size: 20px; /* Tamaño de la fuente */
-    text-align: center; /* Alineación del texto */
+    font-size: 20px; 
+    text-align: center;
 }
 
 .top-bar .dos {
     width: 14vw;
     height: 5vh;
-    font-size: 20px; /* Tamaño de la fuente */
-    text-align: center; /* Alineación del texto */
+    font-size: 20px; 
+    text-align: center; 
 }
 
 .top-bar .tres ,.top-bar .cuatro, .top-bar .seis{
     width: 7vw;
     height: 5vh;
-    font-size: 20px; /* Tamaño de la fuente */
-    text-align: center; /* Alineación del texto */
+    font-size: 20px; 
+    text-align: center; 
 }
 
 .top-bar .cinco {
     width: 21vw;
     height: 5vh;
-    font-size: 20px; /* Tamaño de la fuente */
-    text-align: center; /* Alineación del texto */
+    font-size: 20px; 
+    text-align: center; 
 }
 
 .flex-container {
